@@ -1,0 +1,22 @@
+{
+  "name": "2017-okcoders-day-2",
+  "version": "0.0.1",
+  "description": "Day two stuff",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mduniphin/2017-okcoders-day2.git"
+  },
+  "keywords": [
+    "okcoders"
+  ],
+  "author": "Maxx Duniphin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mduniphin/2017-okcoders-day2/issues"
+  },
+  "homepage": "https://github.com/mduniphin/2017-okcoders-day2#readme"
+}
