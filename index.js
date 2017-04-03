@@ -7,12 +7,12 @@ console.log("My name is " + name + " and I am age " + age);
 
 var counter = 1;
 
-prompt.start();
+// prompt.start();
 
-prompt.get(['username', 'email'], function (err, result) ){
-	if (err) { return onErr(err); }
-	console.log('Command-line')
-}
+// prompt.get(['username', 'email'], function (err, result) ){
+// 	if (err) { return onErr(err); }
+// 	console.log('Command-line')
+// }
 
 
 for (var counter = 1; age <= (21 - counter); counter++){
